@@ -1,0 +1,10 @@
+com\test\ApiRepository.class
+com\test\ApiController.class
+com\test\DataDto.class
+com\test\ApiService.class
+com\test\TestController.class
+com\test\ApiServiceImpl.class
+com\test\ApiRepositoryService.class
+com\test\DatabaseConfiguration.class
+com\test\Beans.class
+com\test\TestApplication.class

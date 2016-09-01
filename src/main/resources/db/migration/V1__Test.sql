@@ -1,0 +1,5 @@
+CREATE TABLE test (
+    `id` BIGINT(200) NOT NULL AUTO_INCREMENT,
+    `data` VARCHAR(20000) NOT NULL,
+    PRIMARY KEY (id)
+    );
